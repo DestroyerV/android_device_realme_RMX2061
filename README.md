@@ -9,7 +9,7 @@ The Realme 6 Pro (codenamed _"RMX2061"_) is a mid-range smartphone from OPPO's s
 | GPU                     | Adreno 618                                                  |
 | Memory                  | 6/8 GB RAM (LPDDR4X)                                        |
 | Shipped Android version | 10 with RealmeUI 1.0                                        |
-| Storage                 | 64/128GB eMMC 5.1 flash storage                             |
+| Storage                 | 64/128GB UFS 2.0 flash storage                             |
 | MicroSD                 | Up to 512 GB                                                |
 | Battery                 | Non-removable Li-Ion 4300 mAh                               |
 | Dimensions              | 163.80 x 75.80 x 8.90 mm                                    |
