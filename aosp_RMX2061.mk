@@ -14,6 +14,7 @@ WITH_CORE_GAPPS := true
 
 # Inherit some common stuff
 $(call inherit-product, vendor/aosp/common_full_phone.mk)
+$(call inherit-product, vendor/hotword/google.mk)
 
 # Device identifier
 PRODUCT_NAME := aosp_RMX2061
