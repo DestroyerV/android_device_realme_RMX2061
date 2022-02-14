@@ -9,11 +9,10 @@ $(call inherit-product, device/realme/RMX2061/device.mk)
 
 # Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1440
-
-WITH_CORE_GAPPS := true
+WITH_GAPPS := true
 
 # Inherit some common stuff
-$(call inherit-product, vendor/aosp/common_full_phone.mk)
+$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 $(call inherit-product, vendor/hotword/google.mk)
 
 # Device identifier
