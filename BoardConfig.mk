@@ -16,7 +16,7 @@ DEVICE_PATH := device/realme/RMX2061
 TARGET_OTA_ASSERT_DEVICE := RMX2061
 
 # Build
-TARGET_FORCE_BUILD_FINGERPRINT := google/redfin/redfin:12/SP1A.211105.003/7757856:user/release-keys
+TARGET_FORCE_BUILD_FINGERPRINT := google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys
 
 # Properties
 TARGET_SYSTEM_PROP += $(COMMON_PATH)/system.prop
